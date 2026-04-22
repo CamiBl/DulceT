@@ -1,0 +1,85 @@
+h1 {
+  align-items: center;
+  justify-content: center;  
+  text-align: center; 
+  font-size :650%;  
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  }
+body {
+    background-image: url('caramelo.png');
+    text-align:center;
+    background-color: rgb(0, 0, 0);
+     }
+p {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size:25px;
+  font-family: "Comic Sans MS", cursive, sans-serif; /* fuente respaldo al no cargar estandar */ 
+  }
+#UnicoP 
+ {
+  margin-top: -20px;
+  font-size: 110%;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: rgb(255, 255, 255);
+ }
+a{ 
+  color: rgb(255, 255, 255);
+  font-size:80px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+ }
+.imag1 
+ { 
+  margin-top: -80px;
+  width:10%;
+  height: 10%;
+ }
+
+.colorsY {
+  color: rgb(238, 255, 0);
+}
+.colorsB {
+  color: rgb(0, 0, 255);
+}
+.colorsR {
+  color: rgb(255, 0, 0);
+} 
+.taby {
+  background-color: yellow;
+} 
+.tabb {
+  background-color: blue;
+}
+.tabr {
+  background-color: red;
+}
+
+table {
+  font-weight: bold; /* negrilla */
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse;
+  border: 1px solid rgb(0, 0, 0);
+} 
+td {
+  border: 1px solid rgb(0, 0, 0);
+  padding: 10px;
+}
+th {
+  width: 300px;
+  border: 1px solid rgb(0, 0, 0);
+  padding: 10px;
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+}
+div {
+  margin: 80px auto;
+  padding: 1%;
+  width: 80%;
+  height: 80%;
+  background-color: rgb(0, 0, 0);
+  
+}
+ 
